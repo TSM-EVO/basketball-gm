@@ -174,7 +174,7 @@ class RatingsStatsPopover extends React.Component {
             rootClose
             trigger={['hover', 'focus']}
         >
-            <span className="glyphicon glyphicon-stats watch" data-no-row-highlight="true" title="View ratings and stats" />
+            <span className="glyphicon glyphicon-stats watch" data-no-row-highlight="true" title="" />
         </OverlayTrigger>;
     }
 }
