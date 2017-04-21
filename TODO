@@ -1,10 +1,26 @@
-Email users after bbgm update
+AI trades
+- make sure fudge factors in trade logic don't apply
+  - especially with picks, make sure trades are sensible
+- notification? only for big trades. quantify! maybe show that info in transactions page too
+- changes
+- benchmark
+- offseason trades
+- not too many during season!
+
+AI propose trade to user
+- need way to show popup with link to trade page
+
+options screen (non god mode)
+- stop if injury > X days, in which case injury notification is persistent
+
+auto delete old box scores, leave behind feats
+
+slow down playoffs
+- somehow add delay to game sim, N - (actual time)
 
 colors
 - color ratings on ratings page (and tables), just like ratings popup
 - color stats in ratings popover
-
-playersPlus - worth passing in ratings/stats, or is it always all? or at least default to all?
 
 bugs in really big leagues
 - https://www.reddit.com/r/BasketballGM/comments/63dwny/error_maximum_ipc_message_size_exceeded/
